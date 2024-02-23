@@ -11,8 +11,8 @@ A demo file for IP4RIoT
 
 This is content for the demo-branch
 
-Test
-
 ## Merge Issue
+
+What will happen now?
 
 ---
